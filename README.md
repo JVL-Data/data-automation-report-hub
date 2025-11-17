@@ -33,7 +33,7 @@ The final deliverable is a **Report Hub**, a centralized portal linking all repo
 
 ---
 
-## Mockups & Screenshots
+## Screenshots
 
 *ETL workflow from data sources to BI dashboards.*
 ![Workflow Diagram](assets/NavigationHub_Workflow.png)
