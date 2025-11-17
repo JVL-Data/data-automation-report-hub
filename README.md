@@ -34,10 +34,9 @@ The final deliverable is a **Report Hub**, a centralized portal linking all repo
 ---
 
 ## Mockups & Screenshots
-> Replace these placeholders with your actual images/screenshots in the repository.
 
-![Workflow Diagram](docs/workflow_diagram.png)
 *ETL workflow from data sources to BI dashboards.*
+![Workflow Diagram](assets/NavigationHub_Workflow.png)
 
-![Report Hub Mockup](looker/report_hub_mockup.png)
 *Centralized Report Hub linking dashboards, reports, and company forms.*
+![Report Hub Mockup](assets/NavigationHub_Portfolio.png)
